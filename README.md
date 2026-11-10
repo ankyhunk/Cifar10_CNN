@@ -1,4 +1,4 @@
-# cifar10-cnn
+# CIFAR10 CNN
 
 Image classification on the **CIFAR-10** dataset with a convolutional neural network built in **PyTorch**.
 
